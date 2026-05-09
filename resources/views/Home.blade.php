@@ -70,14 +70,31 @@
                         <img src="/assets/img/shoushin logo.png" class="w-23 h-25">
                         <div class="flex flex-col">
                             <h1 class="text-white text-3xl">Seketaris 2</h1>
-                            <p class="text-white text-md">Nov 2025 - Now</p>
+                            <p class="text-white text-sm">Nov 2025 - Now</p>
+                            <p class="text-white">Pengalaman Proker : </p>
+                            <ul>
+                                <li class="text-white">
+                                    <img src="" alt="">
+                                    <p>Koor dana harukaze</p>
+                                </li>
+                                <li>
+                                    <p class="text-white">Anggota Humas</p>
+                                </li>
+                                    <li>
+                                    <p class="text-white">Anggota Dana</p>
+                                </li>
+                                    <li>
+                                    <p class="text-white">Anggota Dana</p>
+                                </li>
+                            </ul>
+
                         </div>
                     </div>
                     <div class="flex flex-row gap-10">
                         <img src="/assets/svg/discord-icon-svgrepo-com.svg" class="w-23 h-25">
                         <div class="flex flex-col"> 
-                            <h1 class="text-white text-3xl">Seketaris 2</h1>
-                            <p class="text-white text-md">Nov 2024 - Feb 2025</p>
+                            <h1 class="text-white text-3xl">Discord Bot Dev</h1>
+                            <p class="text-white text-sm">Nov 2024 - Feb 2025</p>
                         </div>
                     </div>
                 </div>
@@ -95,6 +112,24 @@
         <div class="flex justify-center">
             <div class="border border-3 border-blue-700 max-w-7xl w-full h-auto px-25 py-18 bg-gray-800 rounded-2xl shadow-lg">
                 
+            </div>
+        </div>
+    </section>
+
+    <section id = "Certification">
+        <div class="flex justify-center">
+                <h1 class="text-white font-bold text-3xl w-60 h-15 py-2 text-center border-2 bg-gray-800 border-orange-500 rounded-full m-5 shadow-xl shadow-orange-500/50">
+                    Certification
+                </h1>
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <div class="border border-3 border-orange-700 max-w-7xl w-full h-auto px-25 py-18 bg-gray-800 rounded-2xl shadow-lg shadow-orange-500">
+                <div class="grid grid-cols-3 gap-4">
+                    <h1 class="text-white text-md">DeepLearning.AI TensorFlow Developer Specialization</h1>
+                    <h1 class="text-white text-md">DeepLearning.AI TensorFlow Developer Specialization</h1>
+                    <h1 class="text-white text-md">DeepLearning.AI TensorFlow Developer Specialization</h1>
+                </div>        
             </div>
         </div>
     </section>
