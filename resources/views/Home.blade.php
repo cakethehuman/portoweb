@@ -3,7 +3,7 @@
 @section('content')
     <!-- This is for title card -->
     <section class="flex justify-center" id="Home">
-        <div class="flex flex-col items-center max-w-7xl w-full h-auto px-25 py-18 bg-gray-800 text-white border-3 border-yellow-200 rounded-2xl shadow-lg shadow-yellow-500">
+        <div class="flex flex-col items-center max-w-7xl w-full h-auto px-25 py-15 bg-gray-800 text-white border-3 border-yellow-200 rounded-2xl shadow-lg shadow-yellow-500">
             <img src="/assets/img/ame.jpg" alt="Gura pfp" class="center w-42 h-42 rounded-full">
             <h1 class="text-3xl">Hello Im cake...👋</h1>
             <h1 class="text-xl m-1">Data Nerd</h1>
@@ -15,6 +15,9 @@
                    <img src="/assets/svg/github-svgrepo-com.svg" class="w-7 h-7">
                 </a>
             </div>
+            <a href="https://drive.google.com/drive/folders/1MOEpcpJEQ2_d_RiriiEvaeyyVPjqlgf4" class="bg-gray-800 hover:bg-yellow-700/50 border-3 border-yellow-400 rounded-full px-7 py-2">
+                Download CV 
+            </a>
         </div> 
     </section>  
     <!-- This if for my skill cards -->
@@ -107,7 +110,6 @@
                 <h1 class="text-white font-bold text-3xl w-60 h-15 py-2 text-center border-2 bg-gray-800 border-blue-500 rounded-full m-5 shadow-xl shadow-blue-500/50">
                     PROJECTS
                 </h1>
-            </div>
         </div>
         <div class="flex justify-center">
             <div class="border border-3 border-blue-700 max-w-7xl w-full h-auto px-25 py-18 bg-gray-800 rounded-2xl shadow-lg">
@@ -121,7 +123,6 @@
                 <h1 class="text-white font-bold text-3xl w-60 h-15 py-2 text-center border-2 bg-gray-800 border-orange-500 rounded-full m-5 shadow-xl shadow-orange-500/50">
                     Certification
                 </h1>
-            </div>
         </div>
         <div class="flex justify-center">
             <div class="border border-3 border-orange-700 max-w-7xl w-full h-auto px-25 py-18 bg-gray-800 rounded-2xl shadow-lg shadow-orange-500">
