@@ -24,8 +24,8 @@
                 hover:text-emerald-300 border-2 border-emerald-400/40 
                 rounded-full transition duration-300">Skills</a>
                 <a href="#Exprerience" class="px-3 py-2 text-sm 
-                font-medium text-gray-300 hover:bg-red-400/20 
-                hover:text-red-300 border-2 border-red-400/40 
+                font-medium text-gray-300 hover:bg-white/30 
+                hover:text-white border-2 border-white/70
                 rounded-full transition duration-300">Exprerience</a>
                 <a href="#Projects" class="px-3 py-2 text-sm 
                 font-medium text-gray-300 hover:bg-blue-400/20 
