@@ -164,27 +164,27 @@
                         <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
                     </div>
                     <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
-                        <h1 class="text-white text-md font-bold">DeepLearning.AI TensorFlow Developer Specialization</h1>
+                        <h1 class="text-white text-md font-bold">DeepLearning.AI Machine learning</h1>
+                        <p class="text-white text-md text-xs">Learn the core of machine learning from the maths</p>
+                        <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
+                    </div>
+                    <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
+                        <h1 class="text-white text-md font-bold">Google Data Analytics</h1>
+                        <p class="text-white text-md text-xs">Learned about</p>
+                        <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
+                    </div>
+                    <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
+                        <h1 class="text-white text-md font-bold">MySkill SQL for Data Analytics</h1>
                         <p class="text-white text-md text-xs">In this sertification i learn alot about tensorflow like NLP,Timeseries, and CNN</p>
                         <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
                     </div>
                     <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
-                        <h1 class="text-white text-md font-bold">DeepLearning.AI TensorFlow Developer Specialization</h1>
+                        <h1 class="text-white text-md font-bold">Data analysis using real world data</h1>
                         <p class="text-white text-md text-xs">In this sertification i learn alot about tensorflow like NLP,Timeseries, and CNN</p>
                         <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
                     </div>
                     <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
-                        <h1 class="text-white text-md font-bold">DeepLearning.AI TensorFlow Developer Specialization</h1>
-                        <p class="text-white text-md text-xs">In this sertification i learn alot about tensorflow like NLP,Timeseries, and CNN</p>
-                        <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
-                    </div>
-                    <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
-                        <h1 class="text-white text-md font-bold">DeepLearning.AI TensorFlow Developer Specialization</h1>
-                        <p class="text-white text-md text-xs">In this sertification i learn alot about tensorflow like NLP,Timeseries, and CNN</p>
-                        <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
-                    </div>
-                    <div class="flex flex-col border border-3 border-red-700 max-w-xl w-full h-auto px-5 py-5 bg-gray-800 rounded-2xl shadow-lg shadow-red-500 gap-2">
-                        <h1 class="text-white text-md font-bold">DeepLearning.AI TensorFlow Developer Specialization</h1>
+                        <h1 class="text-white text-md font-bold">ISE! Academy: Data Science for Business 2025</h1>
                         <p class="text-white text-md text-xs">In this sertification i learn alot about tensorflow like NLP,Timeseries, and CNN</p>
                         <a href="" class="text-white border border-1 w-30 rounded-full border-red-500 bg-red-500 hover:bg-red-500/70 hover:border-red-500/70 px-2 py-1">🔗Image link</a>
                     </div>
